@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "kyleblazor.sln",
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "kyleblazor/bin/Release/net8.0/publish"
+}

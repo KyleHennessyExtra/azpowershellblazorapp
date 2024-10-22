@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SD553241\\source\\repos\\az204\\develop azure compute solutions\\other tools\\newapp\\kyleblazor\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\kyleblazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\kyleblazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\SD553241\\source\\repos\\az204\\develop azure compute solutions\\other tools\\newapp\\kyleblazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\SD553241\\source\\repos\\az204\\develop azure compute solutions\\other tools\\newapp\\kyleblazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SD553241\\source\\repos\\az204\\develop azure compute solutions\\other tools\\newapp\\kyleblazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SD553241\\source\\repos\\az204\\develop azure compute solutions\\other tools\\newapp\\kyleblazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.kyleblazor.props",
+      "PackagePath": "build\\kyleblazor.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.kyleblazor.props",
+      "PackagePath": "buildMultiTargeting\\kyleblazor.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.kyleblazor.props",
+      "PackagePath": "buildTransitive\\kyleblazor.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.kyleblazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

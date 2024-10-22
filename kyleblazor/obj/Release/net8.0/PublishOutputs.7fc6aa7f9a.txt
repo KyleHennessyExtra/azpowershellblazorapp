@@ -1,0 +1,7 @@
+C:\Users\SD553241\source\repos\az204\develop azure compute solutions\other tools\newapp\kyleblazor\bin\Release\net8.0\publish\kyleblazor.exe
+C:\Users\SD553241\source\repos\az204\develop azure compute solutions\other tools\newapp\kyleblazor\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\SD553241\source\repos\az204\develop azure compute solutions\other tools\newapp\kyleblazor\bin\Release\net8.0\publish\appsettings.json
+C:\Users\SD553241\source\repos\az204\develop azure compute solutions\other tools\newapp\kyleblazor\bin\Release\net8.0\publish\kyleblazor.dll
+C:\Users\SD553241\source\repos\az204\develop azure compute solutions\other tools\newapp\kyleblazor\bin\Release\net8.0\publish\kyleblazor.deps.json
+C:\Users\SD553241\source\repos\az204\develop azure compute solutions\other tools\newapp\kyleblazor\bin\Release\net8.0\publish\kyleblazor.runtimeconfig.json
+C:\Users\SD553241\source\repos\az204\develop azure compute solutions\other tools\newapp\kyleblazor\bin\Release\net8.0\publish\kyleblazor.pdb
